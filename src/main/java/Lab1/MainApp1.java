@@ -1,7 +1,5 @@
 package Lab1;
 
-import java.util.function.BiFunction;
-
 /**
  * Code provided by COMP 3111H teaching team.
  */
